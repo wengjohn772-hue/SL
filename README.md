@@ -1,4 +1,4 @@
-# DecodeLabs_tasks2
+# Supervised Learning
 
 ----
 
